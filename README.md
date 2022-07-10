@@ -23,16 +23,16 @@ List of things to do:
     - Create 4 boxes with corresponding ID's to link to HEADER
     - First and Second boxes will be grey (background-color), the rest is default white
     
-    BOX 1
-      - Div for image: Margin 32px 24px for the Image. Also position image to the left. Using 60% width of box.
-      - Div for text and button: position centered, text-color dark grey, and button color dark grey too, it will need
-        another box for it (text inside has 8px margin top and bot)
+  BOX 1
+    - Div for image: Margin 32px 24px for the Image. Also position image to the left. Using 60% width of box.
+    - Div for text and button: position centered, text-color dark grey, and button color dark grey too, it will need
+      another box for it (text inside has 8px margin top and bot)
         
-    BOX 2
-      - Div for left box: image 60% width, margin 32px 24px, h2? with margin bottom 24px, p (with some part bolded), line
-        break or border right
-      - Div for right box: make three more boxes, 40% width, images inside boxes with 35% witdh, 16px margin all for
-        images, 65% width for additional box fo text, 8px margin between text, make background color of box turn grey when
-        hovering
+  BOX 2
+    - Div for left box: image 60% width, margin 32px 24px, h2? with margin bottom 24px, p (with some part bolded), line
+      break or border right
+    - Div for right box: make three more boxes, 40% width, images inside boxes with 35% witdh, 16px margin all for
+      images, 65% width for additional box fo text, 8px margin between text, make background color of box turn grey when
+      hovering
         
-    BOX 3
+  BOX 3
