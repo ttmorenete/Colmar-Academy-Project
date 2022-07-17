@@ -78,20 +78,26 @@ header nav li{
 /* BANNER  */
 
 .banner {
+    background-color: #DBDBDB;
     display: flex;
     padding: 2rem 1.5rem;
     align-items: center;
     max-width: 100%;
-    background-image:url(file:///C:/Users/ttmor/OneDrive/Documentos/VS%20Projects/Colmar%20Academy%20Project/resources/capstone_colmar_assets/images/banner.jpg) ;
-    background-size: cover;
+}
+
+.banner-img {
+    max-width: 60%;
+}
+
+.banner-img img {
+    width: 100%;
+    height: auto;
 }
 
 .banner-txt {
     padding: 0 2rem;
     font-size: 1.75rem;
-    color: white;
-    justify-content: center;
-    align-items: center;
+    color: #424242;
 }
 
 .banner-txt h1 p {
